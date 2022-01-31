@@ -3,7 +3,7 @@
 
 ## Models,Representations and Data Used 
 
-### The data is provided by  http://www.timeseriesclassification.com/http://www.timeseriesclassification.com . The data sets chosen for the performance test are Earthquakes , ECG200, Fish , Large Kitchen Appliences and Mixed Shapes Small datasets
+- The data is provided by  http://www.timeseriesclassification.com/http://www.timeseriesclassification.com . The data sets chosen for the performance test are Earthquakes , ECG200, Fish , Large Kitchen Appliences and Mixed Shapes Small datasets
 
 ### The model used is KNN-Classifier : 
 
