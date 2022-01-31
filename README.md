@@ -6,23 +6,31 @@
 ### The data is provided by  http://www.timeseriesclassification.com/http://www.timeseriesclassification.com . The data sets chosen for the performance test are Earthquakes , ECG200, Fish , Large Kitchen Appliences and Mixed Shapes Small datasets
 
 ### The model used is KNN-Classifier : 
-![image](https://user-images.githubusercontent.com/73999139/151788449-05e894f8-dbc4-4c2d-970c-64864e1098fd.png)
+
+![image](https://user-images.githubusercontent.com/73999139/151790426-0e014435-9ca4-4e60-8bc0-ed1d9667d996.png)
 
 ### The representations and Distance Measures used : 
 
 - *Dynamic Time Warping(DTW)* :
+- 
 https://en.wikipedia.org/wiki/Dynamic_time_warping
+
 ![image](https://user-images.githubusercontent.com/73999139/151788911-c83a6205-158c-4029-b8d9-042c78255d63.png)
 
 - *Symoblic Aggregate Approximation(SAX)*:
+- 
 https://pyts.readthedocs.io/en/stable/auto_examples/approximation/plot_sax.html
+
 ![image](https://user-images.githubusercontent.com/73999139/151789208-00cf1934-9598-4d43-aa40-4f499da19843.png)
 
 - *Principal Component Analysis(PCA)*:
+- 
 https://en.wikipedia.org/wiki/Principal_component_analysis
+
 ![image](https://user-images.githubusercontent.com/73999139/151789515-e0a00c77-613b-41cd-966e-8febfcd77f04.png)
 
 ## Files
+
 - "Datasets" includes the train and test datasets to test the pipeline 
 - time-series-classification-pipeline.jpynb is the interactive python notebook inculidng codes
 - Requirements.txt is the all libraries you need for the analysis
