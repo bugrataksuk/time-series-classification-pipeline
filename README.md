@@ -12,19 +12,19 @@
 ### The representations and Distance Measures used : 
 
 - *Dynamic Time Warping(DTW)* :
-- 
+
 https://en.wikipedia.org/wiki/Dynamic_time_warping
 
 ![image](https://user-images.githubusercontent.com/73999139/151788911-c83a6205-158c-4029-b8d9-042c78255d63.png)
 
 - *Symoblic Aggregate Approximation(SAX)*:
-- 
+
 https://pyts.readthedocs.io/en/stable/auto_examples/approximation/plot_sax.html
 
 ![image](https://user-images.githubusercontent.com/73999139/151789208-00cf1934-9598-4d43-aa40-4f499da19843.png)
 
 - *Principal Component Analysis(PCA)*:
-- 
+
 https://en.wikipedia.org/wiki/Principal_component_analysis
 
 ![image](https://user-images.githubusercontent.com/73999139/151789515-e0a00c77-613b-41cd-966e-8febfcd77f04.png)
